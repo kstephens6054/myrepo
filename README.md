@@ -1,4 +1,4 @@
-myrepo
-======
+startup-class
+=============
 
-First repo for startup engineering course.
+GitHub repository for the Coursera Startup Engineering course.
